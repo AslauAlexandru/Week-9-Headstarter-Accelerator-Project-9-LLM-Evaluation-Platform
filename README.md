@@ -22,6 +22,21 @@ Project Requirements:
 - Store user prompts and experiment results in a database
 - Implement an analytics dashboard for visualizing performance metrics for different prompts and LLMs
 
+## Resources
+[LLM Evaluation Guide](
+https://www.superannotate.com/blog/llm-evaluation-guide)
+
+[LLM Evaluation Metrics](
+https://www.confident-ai.com/blog/llm-evaluation-metrics-everything-you-need-for-llm-evaluation)
+
+[LLMs as a Judge](
+https://arize.com/blog-course/llm-evaluation-the-definitive-guide/)
+
+[How to Evaluate LLM Performance for Domain-Specific Use Cases](
+https://www.youtube.com/watch?v=ZHjulqB-4A0)
+
+[Can Large Language Models Be an Alternative to Human Evaluation?](
+https://aclanthology.org/2023.acl-long.870.pdf)
 
 
 
