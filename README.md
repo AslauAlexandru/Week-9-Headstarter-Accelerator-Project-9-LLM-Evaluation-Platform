@@ -1,6 +1,7 @@
 # Week 9 Headstarter Accelerator Project 9 LLM Evaluation Platform
 
 This Google Colab [**Week_9_Headstarter_Accelerator_Project_9_LLM_Evaluation_Platform.ipynb**](https://github.com/AslauAlexandru/Week-9-Headstarter-Accelerator-Project-9-LLM-Evaluation-Platform/blob/main/Week_9_Headstarter_Accelerator_Project_9_LLM_Evaluation_Platform.ipynb) have two parts: 
+
 Part 1: Headstarter LLM Evaluation for RAG Financial Analysis & Automation with LLMs Project and Part 2: LLM Evaluation Platform a Web app for RAG Financial Analysis & Automation with Streamlit.
 
 
